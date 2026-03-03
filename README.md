@@ -97,7 +97,7 @@ You should see both models listed.
 
 ```bash
 # If using git
-git clone https://github.com/youruser/agentic_coder.git
+git clone https://github.com/Rikiza89/Coder_agent.git
 cd agentic_coder
 
 # Or manually: place the agentic_coder/ folder on your Desktop
@@ -310,5 +310,6 @@ Try a larger or more capable model via `OLLAMA_MODEL`, or simplify your project 
 ---
 
 ## 📄 License
+
 
 MIT License — free to use, modify, and distribute.
