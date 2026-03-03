@@ -1,0 +1,13 @@
+# --- Core ---
+# requests>=2.31.0       # Ollama API通信
+# psutil>=5.9.0          # CPU/RAMメトリクス取得
+
+# --- UI ---
+# PySide6>=6.6.0         # GUIフレームワーク
+
+# --- Dev / Test ---
+# pytest>=7.4.0          # テスト実行
+# pytest-qt>=4.3.0       # PySide6ウィジェットテスト
+
+# インストールコマンド:
+# pip install requests psutil PySide6 pytest pytest-qt#
